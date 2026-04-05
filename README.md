@@ -116,7 +116,6 @@ streamlit run app.py
 
 ## 📸 Demo
 
-👉 *(Add screenshots or screen recording here)*
 ![Screenshot1](images\Screenshot 2026-04-05 181620.png)
 ![Screenshot2](images\Screenshot 2026-04-05 181643.png)
 
