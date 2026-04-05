@@ -117,6 +117,8 @@ streamlit run app.py
 ## 📸 Demo
 
 👉 *(Add screenshots or screen recording here)*
+![Screenshot1](images\Screenshot 2026-04-05 181620.png)
+![Screenshot2](images\Screenshot 2026-04-05 181643.png)
 
 ---
 
@@ -139,8 +141,8 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 If you liked this project or want to collaborate:
 
-* LinkedIn: *(your profile link)*
-* GitHub: *(your profile link)*
+* LinkedIn: *www.linkedin.com/in/shivambhusari*
+* GitHub: *https://github.com/Shivam0176*
 
 ---
 
