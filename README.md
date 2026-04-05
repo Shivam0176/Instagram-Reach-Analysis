@@ -52,12 +52,18 @@ This project transforms data science into a **gamified experience**, allowing us
 ```
 📁 Instagram-Reach-Simulator
 │
-├── app.py               # Main Streamlit app
-├── train_model.py      # Model training script
-├── model.pkl           # Saved trained model
-├── instagram_data.csv  # Dataset
-├── requirements.txt    # Dependencies
-└── README.md           # Project documentation
+├── 📁 data
+│   └── Instagram_data.csv
+│
+├── 📁 model
+│   └── model.pkl
+│
+├── 📁 src
+│   └── train.ipynb
+│
+├── app.py
+├── README.md
+└── requirements.txt
 ```
 
 ---
