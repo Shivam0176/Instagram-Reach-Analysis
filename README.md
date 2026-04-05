@@ -116,8 +116,8 @@ streamlit run app.py
 
 ## 📸 Demo
 
-![Screenshot1](images\Screenshot 2026-04-05 181620.png)
-![Screenshot2](images\Screenshot 2026-04-05 181643.png)
+![Screenshot1](images/Screenshot1.png.png)
+![Screenshot2](images/Screenshot2.png)
 
 ---
 
